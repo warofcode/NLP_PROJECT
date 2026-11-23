@@ -1,0 +1,345 @@
+{
+  "evaluation_timestamp": "2026-11-20 14:50:09",
+  "test_sample_size": 20,
+  "categories": [
+    "Confidentiality",
+    "Termination",
+    "Indemnification",
+    "Limitation of Liability",
+    "Governing Law",
+    "Payment Terms",
+    "Auto-Renewal",
+    "Intellectual Property",
+    "Warranties & Disclaimers",
+    "Force Majeure"
+  ],
+  "model_a": {
+    "name": "Model A: TF-IDF + Logistic Regression",
+    "type": "Classical ML Baseline",
+    "accuracy": 95.0,
+    "macro_precision": 96.67,
+    "macro_recall": 95.0,
+    "macro_f1": 94.67,
+    "avg_latency_ms": 0.74,
+    "confusion_matrix": [
+      [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    ]
+  },
+  "model_b": {
+    "name": "Model B: Legal-BERT (Domain Transformer)",
+    "type": "Transformer (nlpaueb/legal-bert-base-uncased)",
+    "accuracy": 70.0,
+    "macro_precision": 82.5,
+    "macro_recall": 70.0,
+    "macro_f1": 70.67,
+    "avg_latency_ms": 28.5,
+    "confusion_matrix": [
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    ]
+  },
+  "per_category_comparison": [
+    {
+      "category": "Confidentiality",
+      "model_a_f1": 66.7,
+      "model_b_f1": 66.7,
+      "support": 2
+    },
+    {
+      "category": "Termination",
+      "model_a_f1": 100.0,
+      "model_b_f1": 100.0,
+      "support": 2
+    },
+    {
+      "category": "Indemnification",
+      "model_a_f1": 100.0,
+      "model_b_f1": 100.0,
+      "support": 2
+    },
+    {
+      "category": "Limitation of Liability",
+      "model_a_f1": 100.0,
+      "model_b_f1": 100.0,
+      "support": 2
+    },
+    {
+      "category": "Governing Law",
+      "model_a_f1": 80.0,
+      "model_b_f1": 100.0,
+      "support": 2
+    },
+    {
+      "category": "Payment Terms",
+      "model_a_f1": 100.0,
+      "model_b_f1": 66.7,
+      "support": 2
+    },
+    {
+      "category": "Auto-Renewal",
+      "model_a_f1": 100.0,
+      "model_b_f1": 0.0,
+      "support": 2
+    },
+    {
+      "category": "Intellectual Property",
+      "model_a_f1": 100.0,
+      "model_b_f1": 66.7,
+      "support": 2
+    },
+    {
+      "category": "Warranties & Disclaimers",
+      "model_a_f1": 100.0,
+      "model_b_f1": 66.7,
+      "support": 2
+    },
+    {
+      "category": "Force Majeure",
+      "model_a_f1": 100.0,
+      "model_b_f1": 40.0,
+      "support": 2
+    }
+  ],
+  "summary": {
+    "f1_delta": -24.0,
+    "accuracy_delta": -25.0,
+    "latency_tradeoff": "38.4x slower inference for transformer contextual accuracy"
+  }
+}

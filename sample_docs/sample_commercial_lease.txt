@@ -1,0 +1,24 @@
+COMMERCIAL REAL ESTATE LEASE AGREEMENT
+
+This Commercial Lease Agreement ("Lease") is made effective December 1, 2026, by and between Metro Commercial Properties LP ("Landlord") and Vertex Analytics Inc. ("Tenant").
+
+1. LEASED PREMISES AND PERMITTED USE
+Landlord hereby leases to Tenant, and Tenant hereby leases from Landlord, Suite 500 comprising approximately 4,200 rentable square feet situated at 550 Market Street, San Francisco, California ("Premises"). The Premises shall be used solely for commercial office, research, and software engineering operations.
+
+2. BASE RENT AND SECURITY DEPOSIT
+Tenant agrees to pay Landlord monthly Base Rent in the amount of $14,500 on or before the first day of each calendar month. Upon execution of this Lease, Tenant shall deposit with Landlord the sum of $29,000 as a Security Deposit for the faithful performance by Tenant of all terms and covenants of this Lease.
+
+3. TERM AND AUTOMATIC RENEWAL
+The initial term shall be three (3) years commencing on December 1, 2026, and ending on November 30, 2029. This Lease shall automatically renew for successive one-year renewal terms unless either Landlord or Tenant delivers written notice of election not to renew at least ninety (90) days prior to the expiration of the current lease term.
+
+4. INDEMNIFICATION AND INSURANCE
+Tenant shall indemnify, defend, and hold Landlord harmless against any and all claims, demands, damages, and expenses arising from Tenant's use or occupancy of the Premises, or from any breach of this Lease by Tenant, except for damages caused solely by Landlord's gross negligence. Tenant shall maintain comprehensive general commercial liability insurance with coverage limits of not less than $2,000,000.
+
+5. DEFAULT AND TERMINATION
+If Tenant fails to pay rent within ten (10) days after written notice of delinquency, or fails to cure any other material default within thirty (30) days of notice, Landlord may terminate this Lease, re-enter the Premises, and accelerate all unpaid rent for the remainder of the Lease term.
+
+6. FORCE MAJEURE
+Neither Landlord nor Tenant shall be deemed in default with respect to any obligation (other than the payment of money) if prevented or delayed by reasons of strikes, labor disputes, acts of God, governmental moratoria, war, or supply chain embargoes beyond its control.
+
+7. GOVERNING LAW
+This Lease shall be construed, interpreted, and governed in all respects by the laws of the State of California. Venue for any dispute arising hereunder shall be the state courts situated in the City and County of San Francisco.

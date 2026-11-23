@@ -1,0 +1,26 @@
+MUTUAL NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is made and entered into as of October 15, 2026 ("Effective Date"), by and between Apex Systems Inc., a Delaware corporation ("Disclosing Party"), and Nexus Technologies LLC, a California limited liability company ("Receiving Party").
+
+1. PURPOSE AND DEFINITION OF CONFIDENTIAL INFORMATION
+The parties wish to explore a prospective business relationship concerning domain-specific enterprise artificial intelligence software ("Purpose"). "Confidential Information" means any proprietary information, technical data, trade secrets, algorithms, customer lists, software source code, or financial records disclosed by one party to the other, whether orally or in tangible form, and designated as confidential or proprietary.
+
+2. OBLIGATIONS OF RECEIVING PARTY AND STANDARD OF CARE
+Each party agrees that it shall use the Confidential Information of the other party solely for the Purpose described herein. The Receiving Party shall hold the Disclosing Party's Confidential Information in strict confidence and shall not disclose such information to any third party without prior written authorization, exercising the same degree of care (and not less than a reasonable degree of care) that it uses to protect its own confidential information of like character.
+
+3. EXCLUSIONS FROM CONFIDENTIALITY
+Confidential Information shall not include information that: (a) is or becomes publicly known through no breach of this Agreement; (b) was already in the receiving party's possession prior to disclosure without restriction; (c) is independently developed by the recipient without access to or use of the Confidential Information; or (d) is rightfully received from a third party without duty of non-disclosure.
+
+4. DURATION AND TERM
+This Agreement shall commence on the Effective Date and remain in effect for a period of two (2) years. The non-disclosure obligations set forth in Section 2 shall survive the expiration or termination of this Agreement for a period of five (5) years thereafter, provided that trade secrets shall be kept confidential in perpetuity.
+
+5. TERMINATION AND REMEDIES
+Either party may terminate this Agreement at any time with or without cause upon providing thirty (30) days prior written notice to the other party. Upon termination, the Receiving Party shall promptly return or certify destruction of all documents and digital media containing Confidential Information. The parties acknowledge that unauthorized disclosure causes irreparable harm for which monetary damages are inadequate, entitling the disclosing party to seek injunctive relief without posting bond.
+
+6. LIMITATION OF LIABILITY
+Except for willful misconduct or breach of confidentiality obligations under Section 2, in no event shall either party be liable to the other for any indirect, special, incidental, punitive, or consequential damages, including lost profits or business disruption, whether based in contract, tort, or other legal theory, even if advised of the possibility of such damages.
+
+7. GOVERNING LAW AND VENUE
+This Agreement shall be governed by, and construed and enforced in accordance with, the laws of the State of Delaware, without regard to its conflict of law principles. Any legal action or dispute arising out of or related to this Agreement shall be brought exclusively in the state or federal courts located in Wilmington, Delaware, and each party irrevocably consents to such jurisdiction.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Mutual Non-Disclosure Agreement to be executed by their duly authorized representatives as of the Effective Date.

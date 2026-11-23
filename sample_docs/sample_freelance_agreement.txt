@@ -1,0 +1,29 @@
+INDEPENDENT CONTRACTOR & PROFESSIONAL SERVICES AGREEMENT
+
+This Independent Contractor Agreement ("Agreement") is entered into on November 1, 2026, by and between Zenith Digital Media Corp. ("Client") and Sarah Vance ("Contractor").
+
+1. ENGAGEMENT AND SCOPE OF SERVICES
+Contractor agrees to perform NLP engineering, model development, and backend API integration services ("Services") as specified in Statement of Work No. 1 attached hereto. Contractor shall exercise independent professional judgment regarding the manner and means of performing the Services.
+
+2. COMPENSATION AND PAYMENT TERMS
+Client shall compensate Contractor at the rate of $125 per hour for approved billable work. Contractor shall invoice Client on a bi-weekly basis with itemized timesheets. Client agrees to pay all undisputed invoices within thirty (30) days from invoice receipt (Net 30). Late payments shall accrue interest at 1.5% per month or the legal statutory ceiling.
+
+3. INTELLECTUAL PROPERTY RIGHTS AND WORK FOR HIRE
+All inventions, source code, data pipelines, model artifacts, user interface designs, and documentation developed by Contractor in connection with the Services shall be considered "work made for hire" and shall become the exclusive property of Client. To the extent any deliverables do not qualify as work made for hire, Contractor hereby unconditionally assigns all right, title, and copyright ownership worldwide to Client.
+
+4. WARRANTIES AND REPRESENTATIONS
+Contractor warrants that all Services will be performed in a professional, workmanlike manner conforming to standard software engineering best practices. EXCEPT AS EXPRESSLY STATED HEREIN, CONTRACTOR DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+5. INDEMNIFICATION CLAUSE
+Contractor agrees to defend, indemnify, and hold harmless Client, its officers, directors, and employees from and against any third-party claims, liabilities, losses, costs, or damages (including reasonable attorney fees) arising directly from Contractor's gross negligence, willful misconduct, or copyright infringement in the Deliverables.
+
+6. LIMITATION OF LIABILITY
+Under no circumstances shall either party's cumulative aggregate liability arising under this Agreement exceed the total compensation paid by Client to Contractor in the preceding six (6) months. Neither party shall be liable for any lost profits, special, incidental, or consequential damages.
+
+7. TERM AND TERMINATION
+This Agreement shall commence on the date first written above and continue until terminated. Either party may terminate this Agreement without cause upon fourteen (14) days prior written notice. Client may terminate immediately for cause if Contractor fails to cure a material breach within five (5) days of written notice.
+
+8. GOVERNING LAW AND DISPUTE RESOLUTION
+This Agreement shall be governed by the laws of the State of New York. Any controversy or claim arising out of or relating to this contract shall be settled by binding arbitration administered by the American Arbitration Association in New York City, and judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof.
+
+IN WITNESS WHEREOF, the parties execute this Agreement through their authorized signatories.
